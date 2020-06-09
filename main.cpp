@@ -13,7 +13,7 @@ int main(int argc, char ** args)
     StringNode n2("Node-2");
     StringNode n3("Node-3");
 
-    //test
+    //test1
     n1.setRHS(n2);
     n2.setRHS(n3);
 
